@@ -1,1 +1,1 @@
-Ushbu loyihada [Figma]([https://www.figma.com/design/UfNGBfQmwBQpEI9mAdSkx4/Untitled?node-id=0-696&node-type=frame&t=N8Z7XJiStEkFVTNN-0](https://www.figma.com/design/Ra4tNYV9GKBkyZjp8E3SQR/Decbase-(Copy)?node-id=0-1&node-type=canvas&t=NsimvjZeXQYlh4xV-0) saytidan bitta loyihani clone yasalgan.Ushbu loyiha html va css yordamida yozilgan.
+Ushbu loyihada [Figma](https://www.figma.com/design/Ra4tNYV9GKBkyZjp8E3SQR/Decbase-(Copy)?node-id=0-1&node-type=canvas&t=NsimvjZeXQYlh4xV-0) saytidan bitta loyihani clone yasalgan.Ushbu loyiha html va css yordamida yozilgan.
